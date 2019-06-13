@@ -1,2 +1,2 @@
 # VGA2DVI
-Optimize VGA input for the Datapath Vision family of capture cards.
+Please refer to the [VGA2DVI](https://www.retrorgb.com/2dvi-status-updates-mailing-list.html) status update page on RetroRGB for more information.
